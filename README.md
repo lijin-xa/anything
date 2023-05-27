@@ -13,11 +13,14 @@
 
 
 
-# 最新篇章
+# 最新更新
+
+路径: `relate\update\firstMarathon`
+
+[首马](https://github.com/lijin-xa/relate/tree/main/update/firstMarathon)
 
 ```
 人生首马记录  2023年5月27日17:54:53
 ```
-
 
 
